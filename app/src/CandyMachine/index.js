@@ -405,7 +405,4 @@ const getProvider = () => {
   return provider;  
 };
 
-
-
-
 export default CandyMachine;
