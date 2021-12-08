@@ -1,0 +1,19 @@
+{
+    "name": "Federalist Wines",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "JCkrQ73xZ3vWZcK5CdZVoU8q6Lv9YXa5c4122VufawHj",
+          "share": 100
+        }
+      ]
+    }
+  }

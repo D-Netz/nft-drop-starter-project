@@ -1,0 +1,19 @@
+{
+    "name": "Delirium Tremens",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "JCkrQ73xZ3vWZcK5CdZVoU8q6Lv9YXa5c4122VufawHj",
+          "share": 100
+        }
+      ]
+    }
+  }
